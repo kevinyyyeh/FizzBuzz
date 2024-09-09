@@ -7,7 +7,6 @@ public class Reduce {
         while (n > 0) {
 
             boolean even = n % 2 == 0;
-            boolean odd = n % 2 == 1;
 
             if (even) {
 
