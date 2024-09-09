@@ -17,7 +17,9 @@ public class Reduce {
 
                 n = n - 1;
             }
+
             count++;
+
         }
 
         System.out.println(count);
